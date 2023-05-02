@@ -1,1 +1,1 @@
-# Augmented-Fashion-Data
+# Augmented Fashion Data
